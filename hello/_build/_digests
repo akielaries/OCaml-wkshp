@@ -1,0 +1,6 @@
+"Rule: ocaml: ml -> cmo & cmi (%=hello )": "i\001S\191\000\214\222\228\\\254\243\179\210\135:X"
+"Rule: ocaml dependencies ml (%=hello_ )": "\017H\r\196F\016\228\238\148\157C,1\151\b\012"
+"Resource: /home/akiel/Desktop/Trunk/github/public-repos/personal/OCaml-wkshp/hello/hello.ml": "\154\140'\202\233\233\169\147q)CK\184h\206\233"
+"Rule: ocaml dependencies ml (%=hello )": "\154\019\026\139,\031\231\135k\152W\1397\208\188x"
+"Resource: /home/akiel/Desktop/Trunk/github/public-repos/personal/OCaml-wkshp/hello/hello_.ml": "\0154\0068i\156\204\243[\243X0\221\174\232\160"
+"Rule: ocaml: cmo* -> byte (%=hello )": "\199\156\207y\156\191\249)\169\165\1858\020\132\231\011"
