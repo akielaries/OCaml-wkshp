@@ -1,0 +1,10 @@
+;; -*- scheme -*-
+
+(jbuild_version 1)
+
+(executables
+ ((names (hello_world))
+  (libraries
+   (core))
+  (preprocess (pps (ppx_jane)))))
+
