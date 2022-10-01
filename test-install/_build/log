@@ -1,0 +1,3 @@
+# jbuilder runtest
+# OCAMLPARAM: unset
+$ /home/akiel/.opam/default/bin/ocamlc.opt -config > /tmp/jbuild5ef6a9.output
