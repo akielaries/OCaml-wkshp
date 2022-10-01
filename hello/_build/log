@@ -1,3 +1,6 @@
-# jbuilder build hello-world.exe
+# dune init project hello
 # OCAMLPARAM: unset
-$ /home/akiel/.opam/default/bin/ocamlc.opt -config > /tmp/jbuildb2f4ef.output
+# Shared cache: disabled
+# Workspace root:
+# /home/akiel/Desktop/Trunk/github/public-repos/personal/OCaml-wkshp/hello
+# Auto-detected concurrency: 4
