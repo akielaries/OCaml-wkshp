@@ -1,3 +1,0 @@
-# jbuilder build hello-world.exe
-# OCAMLPARAM: unset
-$ /home/akiel/.opam/default/bin/ocamlc.opt -config > /tmp/jbuild2091f0.output
